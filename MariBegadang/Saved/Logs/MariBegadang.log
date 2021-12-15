@@ -1366,3 +1366,347 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.15-03.16.42:172][327]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.15-03.16.42:172][327]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_2.Level_2
 [2021.12.15-03.16.42:172][327]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_2_BuiltData.Level_2_BuiltData
+[2021.12.15-03.21.57:246][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.12.15-03.21.58:881][743]LogSlate: Window 'Save Content' being destroyed
+[2021.12.15-03.21.58:941][743]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/FirstPersonProjectile2212947049A1C7A0420BD2AF9B559658.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.12.15-03.21.59:001][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.15-03.21.59:001][743]Cmd: MAP LOAD FILE="../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-03.21.59:001][743]LightingResults: New page: Lighting Build
+[2021.12.15-03.21.59:001][743]LoadErrors: New page: Loading map: Level_1.umap
+[2021.12.15-03.21.59:007][743]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-03.21.59:007][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-03.21.59:008][743]MapCheck: New page: Map Check
+[2021.12.15-03.21.59:008][743]LightingResults: New page: Lighting Build
+[2021.12.15-03.21.59:044][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-03.21.59:052][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.12.15-03.21.59:054][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2021.12.15-03.21.59:182][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-03.21.59:182][743]LogAIModule: Creating AISystem for world Level_1
+[2021.12.15-03.21.59:225][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.12.15-03.21.59:233][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-03.21.59:233][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.265ms to complete.
+[2021.12.15-03.21.59:233][743]LogFileHelpers: Loading map 'Level_1' took 0.232
+[2021.12.15-03.21.59:253][743]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.12.15-03.21.59:253][743]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.12.15-03.22.47:008][543]LogEditorViewport: Clicking Background
+[2021.12.15-03.22.51:049][783]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.12.15-03.23.01:313][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bangunan_bbrp_pasted__pCube1)
+[2021.12.15-03.23.02:041][409]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2021.12.15-03.23.06:791][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bangunan_bbrp_pasted__pCube1)
+[2021.12.15-03.23.07:808][748]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.12.15-03.23.08:247][772]LogEditorViewport: Clicking Background
+[2021.12.15-03.23.10:681][917]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.12.15-03.23.24:295][726]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.23.30:307][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.23.31:531][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.23.32:230][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lampu_arah_lain5)
+[2021.12.15-03.23.33:035][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.23.37:489][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.23.40:127][640]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight32)
+[2021.12.15-03.23.53:947][458]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.24.11:915][521]Cmd: TRANSACTION UNDO
+[2021.12.15-03.24.11:915][521]LogEditorTransaction: Undo Scale Actors
+[2021.12.15-03.24.20:117][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gwdung_ungu_jejer_pPlane20)
+[2021.12.15-03.24.22:473][125]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight22)
+[2021.12.15-03.24.29:426][529]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.24.31:771][664]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2021.12.15-03.24.48:116][632]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.24.52:739][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.24.53:994][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.24.54:689][ 17]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2021.12.15-03.25.01:212][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gwdung_ungu_jejer_pPlane175)
+[2021.12.15-03.25.03:229][520]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2021.12.15-03.25.15:776][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lampu_benar)
+[2021.12.15-03.25.16:876][324]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight24)
+[2021.12.15-03.25.21:328][584]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.25.25:695][841]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight25)
+[2021.12.15-03.25.33:845][322]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.25.56:050][132]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight26)
+[2021.12.15-03.26.04:791][648]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.26.08:354][856]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight27)
+[2021.12.15-03.26.15:412][271]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.26.19:573][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gwdung_ungu_jejer_pPlane20)
+[2021.12.15-03.26.20:770][580]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2021.12.15-03.26.26:994][944]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.26.30:156][129]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight28)
+[2021.12.15-03.26.38:058][595]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.26.42:608][863]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.12.15-03.26.43:340][904]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight29)
+[2021.12.15-03.26.46:562][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight30)
+[2021.12.15-03.26.48:136][188]LogEditorViewport: Clicking on Actor (CTRL LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.12.15-03.26.49:508][266]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight31)
+[2021.12.15-03.26.54:866][580]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.27.03:938][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.27.13:959][704]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight21)
+[2021.12.15-03.27.17:524][910]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.27.21:292][128]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2021.12.15-03.27.24:993][342]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.27.29:318][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-03.27.32:806][795]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2021.12.15-03.27.37:160][ 50]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.27.40:071][219]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2021.12.15-03.27.43:143][396]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.27.45:490][534]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight16)
+[2021.12.15-03.27.51:556][889]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.28.05:782][737]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2021.12.15-03.28.11:293][ 61]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.28.14:011][218]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2021.12.15-03.28.23:526][780]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight15)
+[2021.12.15-03.28.25:261][882]Cmd: TRANSACTION UNDO
+[2021.12.15-03.28.25:261][882]LogEditorTransaction: Undo Move Actors
+[2021.12.15-03.28.36:776][540]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.28.37:969][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ini_bikin_satu_satu3)
+[2021.12.15-03.28.38:644][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ini_bikin_satu_satu3)
+[2021.12.15-03.28.39:405][693]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight15)
+[2021.12.15-03.28.43:203][916]Cmd: TRANSACTION UNDO
+[2021.12.15-03.28.43:203][916]LogEditorTransaction: Undo Move Actors
+[2021.12.15-03.29.00:295][902]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2021.12.15-03.29.03:374][ 75]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.29.07:524][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ini_bikin_satu_satu2)
+[2021.12.15-03.29.08:901][397]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2021.12.15-03.29.14:555][728]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.29.17:048][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ini_bikin_satu_satu3)
+[2021.12.15-03.29.17:658][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ini_bikin_satu_satu3)
+[2021.12.15-03.29.18:269][941]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2021.12.15-03.29.19:865][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight10)
+[2021.12.15-03.29.21:226][114]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ini_bikin_satu_satu6)
+[2021.12.15-03.29.22:263][174]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight12)
+[2021.12.15-03.29.23:733][260]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight11)
+[2021.12.15-03.29.38:184][112]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.29.46:303][597]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2021.12.15-03.29.48:703][736]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2021.12.15-03.29.52:842][980]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2021.12.15-03.29.57:283][241]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight5)
+[2021.12.15-03.30.00:750][442]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ini_bikin_satu_satu10)
+[2021.12.15-03.30.04:630][670]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2021.12.15-03.30.07:680][847]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2021.12.15-03.30.13:059][160]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.15-03.30.15:826][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.15-03.30.15:894][318]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1CA9E61FE4EE2DFF613A8718E75D812BB.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap'
+[2021.12.15-03.30.16:060][318]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_BuiltDataBA7DF84A4E228196C9BDB4A37B17BC77.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1_BuiltData.uasset'
+[2021.12.15-03.30.16:085][318]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-03.30.16:085][318]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.15-03.30.16:085][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_1_BuiltData.Level_1_BuiltData
+[2021.12.15-03.30.29:111][ 90]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (octo_kecil__fix_Anim4)
+[2021.12.15-03.30.36:671][532]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (octo_kecil__fix_Anim3)
+[2021.12.15-03.30.43:506][930]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (octo_kecil__fix_PhysicsAsset3)
+[2021.12.15-03.30.49:883][301]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (octo_kecil__fix_Anim5)
+[2021.12.15-03.30.52:490][451]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (octo_kecil__fix3)
+[2021.12.15-03.31.01:998][  2]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (octo_kecil__fix_PhysicsAsset3)
+[2021.12.15-03.31.10:368][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.15-03.31.10:433][490]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_165461E0043299A0DF93A0A8ABCD709ED.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap'
+[2021.12.15-03.31.10:528][490]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_BuiltDataFD1A66F544EFD8C24ADA6E9219CB8F70.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1_BuiltData.uasset'
+[2021.12.15-03.31.10:548][490]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-03.31.10:548][490]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.15-03.31.10:548][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_1_BuiltData.Level_1_BuiltData
+[2021.12.15-03.31.36:684][414]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/DuniakuDuniamu/M_Glass.M_Glass
+[2021.12.15-03.31.36:686][414]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 6E3AC8EE8DABF35FE0DC2BAB3DB5F3DFC4EDBB3A), compiling. 
+[2021.12.15-03.31.36:728][414]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2021.12.15-03.31.36:752][414]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.12.15-03.31.36:853][414]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.15-03.31.36:997][414]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 998B3BA655C022286F47E4366A331A44A321BBF4), compiling. 
+[2021.12.15-03.31.36:999][414]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 15B3F946619692BA918D6DA6BC6C5A5691D3A96B), compiling. 
+[2021.12.15-03.31.37:001][414]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 21D66A5FD4D285454A48D0B467E70587940E183A), compiling. 
+[2021.12.15-03.31.37:016][414]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.31.37:099][415]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.31.37:201][421]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.31.37:201][421]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.12.15-03.31.37:201][421]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.31.38:212][467]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.31.38:212][467]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.31.38:221][467]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.15-03.31.38:222][467]LogShaderCompilers: Display: Total job queries 157, among them cache hits 5 (3.18%)
+[2021.12.15-03.31.38:222][467]LogShaderCompilers: Display: Tracking 97 distinct input hashes that result in 24 distinct outputs (24.74%)
+[2021.12.15-03.31.38:222][467]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2021.12.15-03.31.38:222][467]LogShaderCompilers: Display: ================================================
+[2021.12.15-03.31.38:251][468]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.15-03.31.40:378][571]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.31.45:149][850]MaterialEditorStats: Base pass shader: 321 instructions
+[2021.12.15-03.31.45:149][850]MaterialEditorStats: Base pass shader with Surface Lightmap: 355 instructions
+[2021.12.15-03.31.45:149][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 401 instructions
+[2021.12.15-03.31.45:149][850]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.15-03.31.45:149][850]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.33.41:513][830]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 9D26183990F7967D0ADF1D66C912BEB786B9F3B3), compiling. 
+[2021.12.15-03.33.41:527][830]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: F0E5AE1951A994B41634D5861A9F9AE3D561825B), compiling. 
+[2021.12.15-03.33.41:530][830]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.15-03.33.41:549][832]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.33.41:559][833]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.33.42:707][885]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.15-03.33.44:764][991]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.33.46:227][ 69]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 845DDEF8B9363547C3A159D101A8578A578346C0), compiling. 
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.12.15-03.33.46:275][ 71]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.33.46:952][ 97]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.12.15-03.33.46:952][ 97]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.33.47:043][101]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.12.15-03.33.47:043][101]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.33.50:130][276]MaterialEditorStats: Base pass shader: 316 instructions
+[2021.12.15-03.33.50:130][276]MaterialEditorStats: Base pass shader with Surface Lightmap: 350 instructions
+[2021.12.15-03.33.50:130][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 396 instructions
+[2021.12.15-03.33.50:130][276]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.15-03.33.50:130][276]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.33.55:681][609]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 54AF87FB476FB75D3B956420777DD18D4D7E3DBC), compiling. 
+[2021.12.15-03.33.55:684][609]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: C1BC95EA2B5991CB879A251D68691D1DB3834C1D), compiling. 
+[2021.12.15-03.33.55:686][609]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.15-03.33.55:731][612]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.33.55:750][613]MaterialEditorStats: Base pass shader: 321 instructions
+[2021.12.15-03.33.55:750][613]MaterialEditorStats: Base pass shader with Surface Lightmap: 355 instructions
+[2021.12.15-03.33.55:750][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 401 instructions
+[2021.12.15-03.33.55:750][613]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.15-03.33.55:751][613]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.33.59:742][852]LogMaterialEditor: Applying material M_Glass
+[2021.12.15-03.34.02:016][852]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 708F4C237F9924868D142F2E6F11787A506A807A), compiling. 
+[2021.12.15-03.34.02:039][852]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 2D55DA55CA69BBF056B9C04FC43C179FFD23F836), compiling. 
+[2021.12.15-03.34.02:117][852]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.12.15-03.34.02:125][852]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.34.02:383][852]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2021.12.15-03.34.02:383][852]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.34.02:383][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.15-03.34.02:395][852]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.15-03.34.02:451][854]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.12.15-03.34.02:482][854]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.34.02:482][854]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.34.07:080][116]MaterialEditorStats: Base pass shader: 321 instructions
+[2021.12.15-03.34.07:080][116]MaterialEditorStats: Base pass shader with Surface Lightmap: 355 instructions
+[2021.12.15-03.34.07:080][116]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 401 instructions
+[2021.12.15-03.34.07:080][116]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.15-03.34.07:080][116]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.40.25:673][813]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/DuniakuDuniamu/TextureBij/M_Water.M_Water
+[2021.12.15-03.40.25:676][813]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: 633C127CC8C255B39426A958B65756C9B6C3EE7A), compiling. 
+[2021.12.15-03.40.25:695][813]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2021.12.15-03.40.25:763][813]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: 2A417190366D3BCBD960466EDE8A7D03C8778E94), compiling. 
+[2021.12.15-03.40.25:766][813]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: A2917E97B86DE4ED7BF51DBB165C9D275B8D60A1), compiling. 
+[2021.12.15-03.40.25:768][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A13E52B51A798108C5A6DF1C29F6EFEB1988C34F), compiling. 
+[2021.12.15-03.40.25:770][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionDepthFade_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6901CAAA68AFF08E8186E2835EA75F0B975FA81A), compiling. 
+[2021.12.15-03.40.25:771][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CDDB69E047D33839CEEB0F3B122C966E329BA583), compiling. 
+[2021.12.15-03.40.25:772][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionDepthFade_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D646D6EE380AA60AF1632595279E419AA49EB165), compiling. 
+[2021.12.15-03.40.25:773][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 22158A0D9FCB047F556971754C544625DCD33689), compiling. 
+[2021.12.15-03.40.25:774][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F330F83178D187DE4DDB5341AD05997B2BB01C45), compiling. 
+[2021.12.15-03.40.25:775][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 20D43D9088EAA7F328E2C9A856D623ACABA6E99D), compiling. 
+[2021.12.15-03.40.25:776][813]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F1E042C22DDD62892DECF83EDE6111CE0599642), compiling. 
+[2021.12.15-03.40.25:793][813]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.15-03.40.25:793][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.12.15-03.40.25:793][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.15-03.40.25:869][814]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Normal' priority
+[2021.12.15-03.40.25:870][814]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.26:699][849]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.26:699][849]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.12.15-03.40.26:699][849]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: Total job queries 349, among them cache hits 89 (25.50%)
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 75 distinct outputs (42.13%)
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: RAM used: 0.62 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2021.12.15-03.40.26:996][859]LogShaderCompilers: Display: ================================================
+[2021.12.15-03.40.27:027][860]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.15-03.40.27:027][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.12.15-03.40.27:027][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.15-03.40.27:061][861]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.27:061][861]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.27:680][879]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.12.15-03.40.27:680][879]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.27:945][888]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.12.15-03.40.27:945][888]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:138][893]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:177][894]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:177][894]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.12.15-03.40.28:177][894]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:500][903]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.12.15-03.40.28:500][903]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:702][907]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.12.15-03.40.28:702][907]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:953][912]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.28:995][913]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.12.15-03.40.28:995][913]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.29:180][918]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.12.15-03.40.29:180][918]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.29:422][924]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.12.15-03.40.29:422][924]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.29:468][925]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.12.15-03.40.29:468][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.29:472][925]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.15-03.40.29:472][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.12.15-03.40.29:472][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.15-03.40.29:809][934]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.12.15-03.40.29:809][934]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.31:575][  3]MaterialEditorStats: Texture samplers: 6/16
+[2021.12.15-03.40.31:575][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.12.15-03.40.31:575][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.15-03.40.34:646][160]MaterialEditorStats: Texture samplers: 7/16
+[2021.12.15-03.40.34:646][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.12.15-03.40.34:646][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: Base pass shader: 376 instructions
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: Base pass shader with Surface Lightmap: 417 instructions
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 463 instructions
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: Texture samplers: 7/16
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2021.12.15-03.40.34:697][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.15-03.40.55:478][408]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.55:478][408]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.15-03.40.55:478][408]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.40.55:478][408]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.58:561][593]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.40.58:561][593]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.12.15-03.40.58:561][593]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.12.15-03.40.58:561][593]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.15-03.41.30:691][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.12.15-03.41.30:693][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DuniakuDuniamu/Level_1' took 0.042
+[2021.12.15-03.41.30:693][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DuniakuDuniamu/M_Glass] ([1] browsable assets)...
+[2021.12.15-03.41.30:713][124]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DuniakuDuniamu/M_Glass.M_Glass]
+[2021.12.15-03.41.30:713][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/DuniakuDuniamu/M_Glass]
+[2021.12.15-03.41.30:721][124]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/M_Glass_Auto16B62F2B147B93EE8BCBB3BB2177BFB1B.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Autosaves/Game/DuniakuDuniamu/M_Glass_Auto1.uasset'
+[2021.12.15-03.41.30:722][124]LogFileHelpers: Auto-saving content packages took 0.029
