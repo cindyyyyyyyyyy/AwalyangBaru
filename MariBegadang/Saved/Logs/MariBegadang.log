@@ -1710,3 +1710,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.15-03.41.30:713][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/DuniakuDuniamu/M_Glass]
 [2021.12.15-03.41.30:721][124]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/M_Glass_Auto16B62F2B147B93EE8BCBB3BB2177BFB1B.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Autosaves/Game/DuniakuDuniamu/M_Glass_Auto1.uasset'
 [2021.12.15-03.41.30:722][124]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.12.15-03.43.01:194][460]LogEditorViewport: Clicking Background
+[2021.12.15-03.44.45:734][613]LogMaterialEditor: Saving and Compiling material M_Glass
+[2021.12.15-03.44.45:750][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DuniakuDuniamu/M_Glass" FILE="../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/M_Glass.uasset" SILENT=true
+[2021.12.15-03.44.45:753][613]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/M_GlassA0B56707429D9B03A737A7BFE34A166A.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/M_Glass.uasset'
+[2021.12.15-03.44.45:773][613]AssetCheck: New page: Asset Save: M_Glass
+[2021.12.15-03.44.45:773][613]LogContentValidation: Display: Validating Material /Game/DuniakuDuniamu/M_Glass.M_Glass
+[2021.12.15-03.50.40:562][892]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/DuniakuDuniamu/TextureBij/MI_Waterbruh.MI_Waterbruh
+[2021.12.15-03.50.40:723][892]LogRenderer: Reallocating scene render targets to support 1188x912 Format 10 NumSamples 1 (Frame:1).
+[2021.12.15-03.51.14:806][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.12.15-03.51.14:867][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.12.15-03.51.14:884][915]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-03.51.14:884][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-03.51.47:474][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.12.15-03.51.47:475][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DuniakuDuniamu/Level_1' took 0.044
+[2021.12.15-03.51.47:476][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DuniakuDuniamu/TextureBij/MI_Waterbruh] ([1] browsable assets)...
+[2021.12.15-03.51.47:489][846]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/DuniakuDuniamu/TextureBij/MI_Waterbruh.MI_Waterbruh]
+[2021.12.15-03.51.47:489][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/DuniakuDuniamu/TextureBij/MI_Waterbruh]
+[2021.12.15-03.51.47:499][846]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/MI_Waterbruh_Auto2512BD02344D4BE7E3732EA862F1FCB5E.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Autosaves/Game/DuniakuDuniamu/TextureBij/MI_Waterbruh_Auto2.uasset'
+[2021.12.15-03.51.47:500][846]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.12.15-04.04.47:872][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.15-04.04.48:413][546]LogEditorViewport: Clicking on Actor (LMB): BP_EndLevel_C (BP_EndLevel)
+[2021.12.15-04.04.52:027][760]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-04.04.52:037][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-04.04.52:037][760]PIE: New page: PIE session: Level_1 (Dec 15, 2021, 8:04:52 PM)
+[2021.12.15-04.04.52:076][760]LogPlayLevel: Creating play world package: /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.15-04.04.52:092][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015867s)
+[2021.12.15-04.04.52:093][760]LogAIModule: Creating AISystem for world Level_1
+[2021.12.15-04.04.52:094][760]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2021.12.15-04.04.52:094][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DuniakuDuniamu/Level_1.Level_1 to /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 (0.017548s)
+[2021.12.15-04.04.52:136][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.12.15-04.04.52:138][760]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.15-04.04.52:138][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-04.04.52:138][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-04.04.52:138][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-04.04.52:138][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-04.04.52:138][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-04.04.52:139][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-04.04.52:139][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-04.04.52:139][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-04.04.52:139][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-04.04.52:139][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-04.04.52:139][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-04.04.52:139][760]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-04.04.52:143][760]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-04.04.52:143][760]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-04.04.52:206][760]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.15-04.04.52:206][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-04.04.52:206][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-04.04.52:206][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-04.04.52:207][760]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-04.04.52:207][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-04.04.52:207][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-04.04.52:208][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-04.04.52:208][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-04.04.52:208][760]LogInit: FAudioDevice initialized.
+[2021.12.15-04.04.52:208][760]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1'.
+[2021.12.15-04.04.52:220][760]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-04.04.52:229][760]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.12.15-12.04.52
+[2021.12.15-04.04.52:231][760]LogWorld: Bringing up level for play took: 0.009846
+[2021.12.15-04.04.52:231][760]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.12.15-04.04.52:236][760]PIE: Server logged in
+[2021.12.15-04.04.52:237][760]PIE: Play in editor total start time 0.203 seconds.
+[2021.12.15-04.05.05:048][526]LogNet: Browse: /Game/DuniakuDuniamu/Level_2
+[2021.12.15-04.05.05:048][526]LogLoad: LoadMap: /Game/DuniakuDuniamu/Level_2
+[2021.12.15-04.05.05:048][526]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.15-04.05.05:049][526]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-04.05.05:051][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-04.05.05:113][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-04.05.05:118][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.15-04.05.05:206][526]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_2'.
+[2021.12.15-04.05.05:206][526]LogAIModule: Creating AISystem for world Level_2
+[2021.12.15-04.05.05:207][526]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-04.05.05:225][526]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2021.12.15-12.05.05
+[2021.12.15-04.05.05:226][526]LogWorld: Bringing up level for play took: 0.018666
+[2021.12.15-04.05.05:230][526]LogLoad: Took 0.181826 seconds to LoadMap(/Game/DuniakuDuniamu/Level_2)
+[2021.12.15-04.05.06:287][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-04.05.06:287][583]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_2
+[2021.12.15-04.05.06:288][583]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-04.05.06:291][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-04.05.06:302][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-04.05.06:313][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-04.05.06:346][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-04.05.06:348][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-04.05.06:349][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-04.05.06:407][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.15-04.05.06:455][584]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.12.15-04.05.31:551][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.12.15-04.05.31:616][ 69]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_Auto30F4F430E49EBB63D52E570A1DDD4EFF3.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Autosaves/Game/DuniakuDuniamu/Level_1_Auto3.umap'
+[2021.12.15-04.05.31:619][ 69]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DuniakuDuniamu/Level_1' took 0.105
+[2021.12.15-04.05.31:619][ 69]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2021.12.15-04.06.04:696][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.12.15-04.06.04:760][ 49]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1248A304A468D10A8A226099D471E9FE7.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap'
+[2021.12.15-04.06.04:866][ 49]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_BuiltDataFFD25CF74280FE03FDF84C99A7EC657F.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1_BuiltData.uasset'
+[2021.12.15-04.06.04:883][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-04.06.04:883][ 49]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.15-04.06.04:883][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_1_BuiltData.Level_1_BuiltData
