@@ -1416,3 +1416,1694 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.22-14.00.29:550][930]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
 [2021.12.22-14.00.29:550][930]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2778
 [2021.12.22-14.00.29:550][930]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.30:145][955]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2768
+[2021.12.22-14.00.30:145][955]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.30:282][960]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2758
+[2021.12.22-14.00.30:282][960]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.30:282][960]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2748
+[2021.12.22-14.00.30:282][960]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.30:404][964]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2738
+[2021.12.22-14.00.30:404][964]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.30:511][968]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2728
+[2021.12.22-14.00.30:511][968]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.30:620][970]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2718
+[2021.12.22-14.00.30:620][970]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.31:281][  4]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2708
+[2021.12.22-14.00.31:281][  4]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.31:884][ 34]LogRendererCore: Warning: Query 'NiagaraGPUSimulation' not ready.
+[2021.12.22-14.00.34:592][154]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2698
+[2021.12.22-14.00.34:592][154]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2688
+[2021.12.22-14.00.34:592][154]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.36:644][229]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2678
+[2021.12.22-14.00.36:644][229]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.36:825][236]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2668
+[2021.12.22-14.00.36:825][236]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.37:271][253]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2658
+[2021.12.22-14.00.37:271][253]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.40:749][375]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2648
+[2021.12.22-14.00.40:749][375]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2638
+[2021.12.22-14.00.40:749][375]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.40:996][381]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2628
+[2021.12.22-14.00.40:996][381]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.41:946][413]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2618
+[2021.12.22-14.00.41:946][413]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.42:433][430]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2608
+[2021.12.22-14.00.42:433][430]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.42:797][443]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2598
+[2021.12.22-14.00.42:797][443]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.42:955][445]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2588
+[2021.12.22-14.00.42:955][445]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.43:550][469]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2578
+[2021.12.22-14.00.43:550][469]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.44:748][512]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2568
+[2021.12.22-14.00.44:748][512]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.45:417][542]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2558
+[2021.12.22-14.00.45:417][542]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.45:633][548]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2548
+[2021.12.22-14.00.45:633][548]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.46:495][585]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2538
+[2021.12.22-14.00.46:495][585]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.46:848][599]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2528
+[2021.12.22-14.00.46:849][599]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.46:990][604]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2518
+[2021.12.22-14.00.46:990][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.47:074][605]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2508
+[2021.12.22-14.00.47:074][605]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.47:626][626]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2498
+[2021.12.22-14.00.47:626][626]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.47:799][633]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2488
+[2021.12.22-14.00.47:799][633]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.48:216][649]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2478
+[2021.12.22-14.00.48:216][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.48:358][651]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2468
+[2021.12.22-14.00.48:358][651]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.48:533][660]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2458
+[2021.12.22-14.00.48:533][660]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.49:395][707]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2448
+[2021.12.22-14.00.49:395][707]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.49:961][733]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2438
+[2021.12.22-14.00.49:961][733]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.50:005][734]LogEditorViewport: Clicking Background
+[2021.12.22-14.00.50:027][734]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2428
+[2021.12.22-14.00.50:027][734]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.50:491][748]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2418
+[2021.12.22-14.00.50:492][748]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.51:012][767]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2408
+[2021.12.22-14.00.51:012][767]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.51:209][773]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2398
+[2021.12.22-14.00.51:209][773]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.51:929][801]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2388
+[2021.12.22-14.00.51:929][801]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.52:598][827]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2378
+[2021.12.22-14.00.52:599][827]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.52:794][835]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2368
+[2021.12.22-14.00.52:794][835]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.54:258][883]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2358
+[2021.12.22-14.00.54:258][883]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.54:950][905]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2348
+[2021.12.22-14.00.54:950][905]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.55:181][913]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2338
+[2021.12.22-14.00.55:181][913]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.55:666][928]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2328
+[2021.12.22-14.00.55:666][928]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2318
+[2021.12.22-14.00.55:666][928]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.55:756][930]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2308
+[2021.12.22-14.00.55:756][930]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.56:375][949]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2298
+[2021.12.22-14.00.56:375][949]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.56:486][953]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2288
+[2021.12.22-14.00.56:486][953]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.57:688][995]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2278
+[2021.12.22-14.00.57:688][995]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.58:727][ 34]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2268
+[2021.12.22-14.00.58:728][ 34]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.59:550][ 63]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2258
+[2021.12.22-14.00.59:550][ 63]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.59:738][ 71]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2248
+[2021.12.22-14.00.59:738][ 71]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.00.59:838][ 74]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2238
+[2021.12.22-14.00.59:838][ 74]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.00:211][ 88]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2228
+[2021.12.22-14.01.00:211][ 88]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.00:347][ 92]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2218
+[2021.12.22-14.01.00:347][ 92]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.00:415][ 94]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2208
+[2021.12.22-14.01.00:415][ 94]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.01:032][117]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2198
+[2021.12.22-14.01.01:032][117]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.01:032][117]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2188
+[2021.12.22-14.01.01:032][117]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.01:099][119]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2178
+[2021.12.22-14.01.01:100][119]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.01:412][131]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2168
+[2021.12.22-14.01.01:412][131]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.02:843][184]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2158
+[2021.12.22-14.01.02:844][184]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.03:434][201]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2148
+[2021.12.22-14.01.03:434][201]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.03:843][212]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2138
+[2021.12.22-14.01.03:843][212]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.04:500][231]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2128
+[2021.12.22-14.01.04:500][231]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.04:702][238]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2118
+[2021.12.22-14.01.04:702][238]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.05:169][254]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2108
+[2021.12.22-14.01.05:169][254]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.06:062][284]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2098
+[2021.12.22-14.01.06:062][284]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.06:643][306]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2088
+[2021.12.22-14.01.06:644][306]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.06:910][314]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2078
+[2021.12.22-14.01.06:910][314]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.07:297][329]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2068
+[2021.12.22-14.01.07:298][329]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.07:775][346]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2058
+[2021.12.22-14.01.07:776][346]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2048
+[2021.12.22-14.01.07:776][346]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.07:878][351]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2038
+[2021.12.22-14.01.07:879][351]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.08:088][359]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2028
+[2021.12.22-14.01.08:088][359]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.08:488][372]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2018
+[2021.12.22-14.01.08:488][372]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.08:686][378]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2008
+[2021.12.22-14.01.08:686][378]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.09:436][407]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1998
+[2021.12.22-14.01.09:436][407]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.09:671][415]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1988
+[2021.12.22-14.01.09:671][415]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.10:224][434]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1978
+[2021.12.22-14.01.10:224][434]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.11:947][502]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1968
+[2021.12.22-14.01.11:947][502]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.12:374][518]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1958
+[2021.12.22-14.01.12:374][518]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.12:437][519]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1948
+[2021.12.22-14.01.12:437][519]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1938
+[2021.12.22-14.01.12:437][519]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.12:531][522]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1928
+[2021.12.22-14.01.12:531][522]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.13:080][543]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1918
+[2021.12.22-14.01.13:080][543]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.13:169][545]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1908
+[2021.12.22-14.01.13:169][545]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.13:474][556]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1898
+[2021.12.22-14.01.13:474][556]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.13:563][558]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1888
+[2021.12.22-14.01.13:563][558]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.15:863][633]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1878
+[2021.12.22-14.01.15:863][633]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.16:058][639]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1868
+[2021.12.22-14.01.16:058][639]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.16:332][647]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1858
+[2021.12.22-14.01.16:332][647]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.17:159][670]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1848
+[2021.12.22-14.01.17:159][670]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.17:408][675]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1838
+[2021.12.22-14.01.17:408][675]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.17:408][675]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1828
+[2021.12.22-14.01.17:408][675]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.17:619][680]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1818
+[2021.12.22-14.01.17:619][680]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.17:764][685]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1808
+[2021.12.22-14.01.17:764][685]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.18:030][688]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1798
+[2021.12.22-14.01.18:030][688]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.18:143][692]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1788
+[2021.12.22-14.01.18:143][692]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.18:450][700]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1778
+[2021.12.22-14.01.18:451][700]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.19:750][728]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1768
+[2021.12.22-14.01.19:751][728]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1758
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: Total job queries 4323, among them cache hits 26 (0.60%)
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: Tracking 1820 distinct input hashes that result in 692 distinct outputs (38.02%)
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: RAM used: 4.41 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.54%
+[2021.12.22-14.01.21:750][772]LogShaderCompilers: Display: ================================================
+[2021.12.22-14.01.23:150][810]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1748
+[2021.12.22-14.01.23:150][810]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.24:295][846]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1738
+[2021.12.22-14.01.24:295][846]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.24:839][860]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1728
+[2021.12.22-14.01.24:839][860]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.25:483][865]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1718
+[2021.12.22-14.01.25:483][865]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.26:871][905]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1708
+[2021.12.22-14.01.26:871][905]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.28:322][937]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1698
+[2021.12.22-14.01.28:322][937]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.29:099][956]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1688
+[2021.12.22-14.01.29:099][956]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.29:254][957]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1678
+[2021.12.22-14.01.29:254][957]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.29:465][960]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1668
+[2021.12.22-14.01.29:465][960]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.30:115][979]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1658
+[2021.12.22-14.01.30:115][979]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.30:926][  8]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1648
+[2021.12.22-14.01.30:926][  8]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.31:011][  9]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1638
+[2021.12.22-14.01.31:011][  9]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.33:217][100]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1628
+[2021.12.22-14.01.33:217][100]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.33:971][124]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1618
+[2021.12.22-14.01.33:971][124]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.34:082][125]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1608
+[2021.12.22-14.01.34:083][125]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.34:167][128]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1598
+[2021.12.22-14.01.34:167][128]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.34:577][133]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1588
+[2021.12.22-14.01.34:577][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.34:896][141]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1578
+[2021.12.22-14.01.34:896][141]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.35:029][144]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1568
+[2021.12.22-14.01.35:029][144]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.35:142][145]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1558
+[2021.12.22-14.01.35:142][145]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.35:351][151]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1548
+[2021.12.22-14.01.35:351][151]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.35:351][151]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1538
+[2021.12.22-14.01.35:351][151]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.36:241][182]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1528
+[2021.12.22-14.01.36:241][182]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.36:626][190]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1518
+[2021.12.22-14.01.36:627][190]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.36:627][190]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1508
+[2021.12.22-14.01.36:627][190]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.36:825][192]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1498
+[2021.12.22-14.01.36:825][192]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.38:091][231]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1488
+[2021.12.22-14.01.38:091][231]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.38:953][252]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1478
+[2021.12.22-14.01.38:953][252]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.39:446][269]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1468
+[2021.12.22-14.01.39:446][269]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.39:783][279]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1458
+[2021.12.22-14.01.39:783][279]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.39:851][282]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1448
+[2021.12.22-14.01.39:851][282]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.40:019][287]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1438
+[2021.12.22-14.01.40:019][287]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.40:143][291]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1428
+[2021.12.22-14.01.40:143][291]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.40:331][294]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1418
+[2021.12.22-14.01.40:331][294]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.40:429][298]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1408
+[2021.12.22-14.01.40:429][298]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.40:493][299]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1398
+[2021.12.22-14.01.40:493][299]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.40:710][307]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1388
+[2021.12.22-14.01.40:710][307]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.41:638][338]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1378
+[2021.12.22-14.01.41:638][338]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.41:900][344]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1368
+[2021.12.22-14.01.41:900][344]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.42:549][361]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1358
+[2021.12.22-14.01.42:549][361]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.43:565][387]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1348
+[2021.12.22-14.01.43:565][387]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.44:047][401]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1338
+[2021.12.22-14.01.44:047][401]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.44:509][415]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1328
+[2021.12.22-14.01.44:509][415]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.45:061][427]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1318
+[2021.12.22-14.01.45:061][427]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.45:437][437]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1308
+[2021.12.22-14.01.45:438][437]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.45:771][448]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1298
+[2021.12.22-14.01.45:771][448]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.45:831][449]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1288
+[2021.12.22-14.01.45:831][449]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.46:307][466]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1278
+[2021.12.22-14.01.46:307][466]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.46:666][480]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1268
+[2021.12.22-14.01.46:666][480]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.47:220][498]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1258
+[2021.12.22-14.01.47:220][498]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.47:305][499]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1248
+[2021.12.22-14.01.47:305][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.47:534][506]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1238
+[2021.12.22-14.01.47:535][506]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.47:994][517]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1228
+[2021.12.22-14.01.47:995][517]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.48:621][538]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1218
+[2021.12.22-14.01.48:622][538]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.49:519][572]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1208
+[2021.12.22-14.01.49:519][572]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1198
+[2021.12.22-14.01.49:519][572]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.50:169][595]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1188
+[2021.12.22-14.01.50:169][595]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.50:367][601]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1178
+[2021.12.22-14.01.50:368][601]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.50:423][602]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1168
+[2021.12.22-14.01.50:423][602]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.51:229][628]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1158
+[2021.12.22-14.01.51:229][628]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.51:297][629]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1148
+[2021.12.22-14.01.51:297][629]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.51:634][640]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1138
+[2021.12.22-14.01.51:634][640]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.54:123][721]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1128
+[2021.12.22-14.01.54:123][721]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.54:625][736]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1118
+[2021.12.22-14.01.54:625][736]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.55:569][762]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1108
+[2021.12.22-14.01.55:569][762]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.56:322][788]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1098
+[2021.12.22-14.01.56:323][788]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.57:294][822]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1088
+[2021.12.22-14.01.57:294][822]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.57:525][827]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1078
+[2021.12.22-14.01.57:525][827]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.57:978][843]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1068
+[2021.12.22-14.01.57:979][843]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.58:604][862]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1058
+[2021.12.22-14.01.58:604][862]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.01.59:772][900]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1048
+[2021.12.22-14.01.59:773][900]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.00:901][930]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1038
+[2021.12.22-14.02.00:901][930]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.01:839][963]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1028
+[2021.12.22-14.02.01:839][963]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.02:582][987]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1018
+[2021.12.22-14.02.02:582][987]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.02:689][988]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1008
+[2021.12.22-14.02.02:689][988]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.02:897][994]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 998
+[2021.12.22-14.02.02:897][994]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.03:133][  3]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 988
+[2021.12.22-14.02.03:133][  3]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.03:231][  6]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 978
+[2021.12.22-14.02.03:232][  6]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.03:701][ 22]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 968
+[2021.12.22-14.02.03:701][ 22]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.04:524][ 49]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 958
+[2021.12.22-14.02.04:525][ 49]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.04:958][ 62]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 948
+[2021.12.22-14.02.04:958][ 62]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.06:926][123]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 938
+[2021.12.22-14.02.06:926][123]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.07:175][127]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 928
+[2021.12.22-14.02.07:176][127]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.07:759][145]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 918
+[2021.12.22-14.02.07:760][145]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.08:116][156]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 908
+[2021.12.22-14.02.08:117][156]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.08:395][166]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 898
+[2021.12.22-14.02.08:395][166]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.08:453][167]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 888
+[2021.12.22-14.02.08:453][167]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.08:809][175]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 878
+[2021.12.22-14.02.08:809][175]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.09:768][203]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 868
+[2021.12.22-14.02.09:768][203]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.11:533][253]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 858
+[2021.12.22-14.02.11:533][253]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.12:412][279]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 848
+[2021.12.22-14.02.12:414][279]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.13:306][304]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 838
+[2021.12.22-14.02.13:306][304]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.15:017][354]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 828
+[2021.12.22-14.02.15:017][354]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.15:499][368]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 818
+[2021.12.22-14.02.15:499][368]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.16:318][383]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 808
+[2021.12.22-14.02.16:318][383]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.18:546][448]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 798
+[2021.12.22-14.02.18:546][448]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.18:736][453]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 788
+[2021.12.22-14.02.18:736][453]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.19:862][486]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 778
+[2021.12.22-14.02.19:862][486]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.20:009][492]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 768
+[2021.12.22-14.02.20:009][492]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.20:183][497]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 758
+[2021.12.22-14.02.20:183][497]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.21:004][518]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 748
+[2021.12.22-14.02.21:004][518]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.21:004][518]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 738
+[2021.12.22-14.02.21:004][518]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.21:384][529]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 728
+[2021.12.22-14.02.21:384][529]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.22:041][544]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 718
+[2021.12.22-14.02.22:041][544]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.22:763][566]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 708
+[2021.12.22-14.02.22:763][566]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.25:508][638]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 698
+[2021.12.22-14.02.25:508][638]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.25:731][646]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 688
+[2021.12.22-14.02.25:731][646]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.26:167][657]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 678
+[2021.12.22-14.02.26:167][657]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.28:428][727]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 668
+[2021.12.22-14.02.28:428][727]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.29:083][746]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 658
+[2021.12.22-14.02.29:083][746]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.29:137][747]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 648
+[2021.12.22-14.02.29:137][747]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.29:321][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 638
+[2021.12.22-14.02.29:322][754]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.30:321][784]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 628
+[2021.12.22-14.02.30:321][784]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.30:889][799]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 618
+[2021.12.22-14.02.30:889][799]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.31:976][830]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 608
+[2021.12.22-14.02.31:976][830]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.32:158][834]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 598
+[2021.12.22-14.02.32:159][834]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.32:754][850]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 588
+[2021.12.22-14.02.32:754][850]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.34:689][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 578
+[2021.12.22-14.02.34:689][895]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.36:519][945]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 568
+[2021.12.22-14.02.36:519][945]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.36:695][949]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 558
+[2021.12.22-14.02.36:695][949]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.39:044][ 19]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 548
+[2021.12.22-14.02.39:044][ 19]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.39:420][ 30]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 538
+[2021.12.22-14.02.39:420][ 30]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.39:665][ 39]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 528
+[2021.12.22-14.02.39:665][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.40:087][ 53]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 518
+[2021.12.22-14.02.40:087][ 53]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.40:459][ 67]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 508
+[2021.12.22-14.02.40:459][ 67]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.41:423][ 97]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 498
+[2021.12.22-14.02.41:423][ 97]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.41:657][103]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 488
+[2021.12.22-14.02.41:657][103]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.42:261][122]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 478
+[2021.12.22-14.02.42:261][122]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.42:814][139]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 468
+[2021.12.22-14.02.42:814][139]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.43:230][153]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 458
+[2021.12.22-14.02.43:230][153]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.45:049][213]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 448
+[2021.12.22-14.02.45:050][213]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.47:200][282]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 438
+[2021.12.22-14.02.47:200][282]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.48:143][314]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 428
+[2021.12.22-14.02.48:143][314]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.48:329][322]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 418
+[2021.12.22-14.02.48:330][322]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.48:926][341]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 408
+[2021.12.22-14.02.48:926][341]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.49:582][366]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 398
+[2021.12.22-14.02.49:582][366]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.50:812][408]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 388
+[2021.12.22-14.02.50:812][408]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.50:865][410]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 378
+[2021.12.22-14.02.50:865][410]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.52:210][450]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 368
+[2021.12.22-14.02.52:210][450]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.52:210][450]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 358
+[2021.12.22-14.02.52:210][450]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.52:721][464]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 348
+[2021.12.22-14.02.52:731][464]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.53:309][485]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 338
+[2021.12.22-14.02.53:309][485]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.55:944][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 328
+[2021.12.22-14.02.55:944][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.57:282][616]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 318
+[2021.12.22-14.02.57:282][616]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.58:248][648]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.22-14.02.58:265][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.22-14.02.58:266][648]PIE: New page: PIE session: Level_1 (Dec 23, 2021, 6:02:58 AM)
+[2021.12.22-14.02.58:270][648]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.22-14.02.58:276][648]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.22-14.02.58:276][648]LogPlayLevel: Creating play world package: /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.02.58:315][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038187s)
+[2021.12.22-14.02.58:317][648]LogAIModule: Creating AISystem for world Level_1
+[2021.12.22-14.02.58:318][648]LogPlayLevel: PIE: World Init took: (0.003152s)
+[2021.12.22-14.02.58:318][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DuniakuDuniamu/Level_1.Level_1 to /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 (0.041790s)
+[2021.12.22-14.02.58:328][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.12.22-14.02.58:351][648]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-14.02.58:352][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-14.02.58:352][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-14.02.58:354][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.22-14.02.58:354][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.22-14.02.58:354][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.22-14.02.58:354][648]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-14.02.58:362][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-14.02.58:362][648]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-14.02.58:442][648]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.22-14.02.58:442][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-14.02.58:443][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-14.02.58:443][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-14.02.58:445][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-14.02.58:445][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-14.02.58:445][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-14.02.58:448][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-14.02.58:448][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-14.02.58:448][648]LogInit: FAudioDevice initialized.
+[2021.12.22-14.02.58:448][648]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_1'.
+[2021.12.22-14.02.58:467][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.02.58:484][648]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 308
+[2021.12.22-14.02.58:484][648]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.58:484][648]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.12.22-22.02.58
+[2021.12.22-14.02.58:488][648]LogWorld: Bringing up level for play took: 0.018583
+[2021.12.22-14.02.58:488][648]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.12.22-14.02.58:497][648]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2021.12.22-14.02.58:507][648]PIE: Server logged in
+[2021.12.22-14.02.58:510][648]PIE: Play in editor total start time 0.249 seconds.
+[2021.12.22-14.02.58:675][650]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 298
+[2021.12.22-14.02.58:675][650]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.02.59:482][682]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 288
+[2021.12.22-14.02.59:482][682]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.00:136][712]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 278
+[2021.12.22-14.03.00:137][712]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.00:935][742]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 268
+[2021.12.22-14.03.00:935][742]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.01:212][750]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 258
+[2021.12.22-14.03.01:212][750]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.02:329][801]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 248
+[2021.12.22-14.03.02:329][801]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.02:640][812]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 238
+[2021.12.22-14.03.02:640][812]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.02:693][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 228
+[2021.12.22-14.03.02:693][813]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.03:980][869]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 218
+[2021.12.22-14.03.03:981][869]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.04:843][884]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 208
+[2021.12.22-14.03.04:843][884]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.07:872][ 14]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 198
+[2021.12.22-14.03.07:872][ 14]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.08:063][ 21]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 188
+[2021.12.22-14.03.08:064][ 21]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.08:564][ 37]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 178
+[2021.12.22-14.03.08:564][ 37]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.09:522][ 64]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 168
+[2021.12.22-14.03.09:523][ 64]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.10:014][ 79]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 158
+[2021.12.22-14.03.10:014][ 79]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.10:428][ 94]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 148
+[2021.12.22-14.03.10:428][ 94]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.10:993][116]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 138
+[2021.12.22-14.03.10:993][116]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.11:032][117]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 128
+[2021.12.22-14.03.11:032][117]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.11:890][153]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 118
+[2021.12.22-14.03.11:890][153]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.12:877][193]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 108
+[2021.12.22-14.03.12:877][193]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.13:968][233]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 98
+[2021.12.22-14.03.13:968][233]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.14:008][234]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 89
+[2021.12.22-14.03.14:008][234]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.16:859][344]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 81
+[2021.12.22-14.03.16:859][344]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.17:106][351]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 74
+[2021.12.22-14.03.17:107][351]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.17:302][358]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 67
+[2021.12.22-14.03.17:302][358]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.18:270][393]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 61
+[2021.12.22-14.03.18:270][393]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.19:500][426]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 55
+[2021.12.22-14.03.19:500][426]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.19:663][430]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2021.12.22-14.03.19:663][430]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.20:249][452]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 45
+[2021.12.22-14.03.20:250][452]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.20:794][471]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 41
+[2021.12.22-14.03.20:795][471]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.20:984][477]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 37
+[2021.12.22-14.03.20:984][477]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.21:914][522]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 33
+[2021.12.22-14.03.21:915][522]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.21:945][523]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 30
+[2021.12.22-14.03.21:945][523]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.22:817][566]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 27
+[2021.12.22-14.03.22:817][566]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.23:088][578]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2021.12.22-14.03.23:088][578]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.23:317][588]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.12.22-14.03.23:317][588]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.23:642][602]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.12.22-14.03.23:642][602]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.23:945][611]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.12.22-14.03.23:945][611]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.24:142][618]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.12.22-14.03.24:142][618]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.24:209][618]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.12.22-14.03.24:209][618]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.24:227][618]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.12.22-14.03.24:227][618]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.24:342][619]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.12.22-14.03.24:343][619]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.24:443][621]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.12.22-14.03.24:444][621]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.24:721][628]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.12.22-14.03.24:721][628]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.25:078][637]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.12.22-14.03.25:078][637]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.25:221][642]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.12.22-14.03.25:222][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.25:427][649]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.12.22-14.03.25:427][649]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.25:427][649]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.12.22-14.03.25:427][649]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.25:574][654]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.12.22-14.03.25:574][654]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.12.22-14.03.25:574][654]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.25:660][656]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.12.22-14.03.25:660][656]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.03.46:143][859]LogSlate: Window 'Sequence Recorder' being destroyed
+[2021.12.22-14.03.46:147][859]LogSlate: Window 'Sequence Recorder' being destroyed
+[2021.12.22-14.03.48:111][977]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-56.91 Y=37.68 Z=0.00 Location: X=-1221.22 Y=8036.54 Z=263.89 Normal: X=0.90 Y=0.43 Z=-0.00 PenetrationDepth:5.345 Actor:BPC_octokecil_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.12.22-14.04.12:861][462]LogActor: Warning: oxto_semua_PhysicsAsset_11 is outside the world bounds!
+[2021.12.22-14.04.18:794][818]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-597.29 Y=-56.96 Z=0.00 Location: X=-940.12 Y=5954.07 Z=263.79 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:15.226 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.12.22-14.04.34:386][753]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=55.50 Y=-247.98 Z=0.00 Location: X=-5087.55 Y=3905.56 Z=263.73 Normal: X=-0.37 Y=-0.93 Z=0.00 PenetrationDepth:14.179 Actor:BPC_octokecil4_8 Component:StaticMesh BoneName:None (41 other events since notify)
+[2021.12.22-14.05.17:603][346]LogNet: Browse: /Game/DuniakuDuniamu/Level_2
+[2021.12.22-14.05.17:604][346]LogLoad: LoadMap: /Game/DuniakuDuniamu/Level_2
+[2021.12.22-14.05.17:604][346]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.05.17:605][346]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.05.17:606][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.05.17:638][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.05.17:641][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.12.22-14.05.17:787][346]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_2'.
+[2021.12.22-14.05.17:787][346]LogAIModule: Creating AISystem for world Level_2
+[2021.12.22-14.05.17:788][346]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.05.17:801][346]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2021.12.22-22.05.17
+[2021.12.22-14.05.17:803][346]LogWorld: Bringing up level for play took: 0.014359
+[2021.12.22-14.05.17:806][346]LogLoad: Took 0.202369 seconds to LoadMap(/Game/DuniakuDuniamu/Level_2)
+[2021.12.22-14.05.32:190][206]LogCharacterMovement: BPC_octokecil2_5 is stuck and failed to move! Velocity: X=-7.33 Y=69.23 Z=0.00 Location: X=1192.28 Y=-94.86 Z=745.15 Normal: X=0.93 Y=0.37 Z=0.00 PenetrationDepth:2.425 Actor:tentakel_kiri_depan_Anim_33 Component:SkeletalMeshComponent0 BoneName:joint12 (0 other events since notify)
+[2021.12.22-14.06.15:567][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.06.15:567][807]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_2
+[2021.12.22-14.06.15:568][807]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.06.15:571][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.06.15:579][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.22-14.06.15:581][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.06.15:586][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.06.15:586][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.06.15:587][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.06.15:632][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.22-14.06.15:668][808]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.12.22-14.06.34:425][920]LogSlate: Window 'Sequence Recorder' being destroyed
+[2021.12.22-14.06.34:429][920]LogSlate: Window 'Sequence Recorder' being destroyed
+[2021.12.22-14.06.42:931][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.12.22-14.06.42:981][424]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_19AB104E6463623E104B16480682E141C.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap'
+[2021.12.22-14.06.43:122][424]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_BuiltDataC7343AE8471336361F3010AF8703AB31.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1_BuiltData.uasset'
+[2021.12.22-14.06.43:137][424]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.22-14.06.43:137][424]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_1_BuiltData.Level_1_BuiltData
+[2021.12.22-14.06.43:137][424]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.22-14.06.48:108][711]MapCheck: New page: Map Check
+[2021.12.22-14.06.48:124][711]Cmd: MAP REBUILD ALLVISIBLE
+[2021.12.22-14.06.48:124][711]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.12.22-14.06.48:216][711]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=false
+[2021.12.22-14.06.48:239][711]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.12.22-14.06.48:240][711]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.12.22-14.06.48:240][711]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.12.22-14.06.48:240][711]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.12.22-14.06.48:253][711]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2021.12.22-14.06.48:260][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.22-14.06.48:264][711]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2021.12.22-14.06.48:268][711]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.12.22-14.06.48:273][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.12.22-14.06.48:276][711]LightingResults: New page: Lighting Build - Dec 23, 2021, 6:06:48 AM
+[2021.12.22-14.06.48:305][711]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.12.22-14.06.48:364][711]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.12.22-14.06.48:374][711]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.12.22-14.06.48:892][711]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.12.22-14.06.48:892][711]LogSwarmInterface: [TryOpenConnection] Local Process ID is 25736
+[2021.12.22-14.06.51:265][711]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.12.22-14.06.51:265][711]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.12.22-14.06.51:265][711]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.12.22-14.06.51:265][711]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.12.22-14.06.51:265][711]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.12.22-14.06.51:468][711]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.12.22-14.06.51:468][711]MapCheck: New page: Level_1 - Dec 23, 2021, 6:06:51 AM
+[2021.12.22-14.06.51:504][711]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pCube5_167 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane15_169 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane16_171 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane17_173 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pCube51_175 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane152_177 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane163_179 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane174_181 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pCube55_183 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane156_185 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane167_187 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane178_189 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pCube59_191 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane1510_193 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane1611_195 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pPlane1712_197 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: lampu_depan_878 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: gwdung_ungu_jejer_pCube56 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Skeleton_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Skeleton_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_7 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_7 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Anim_9 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Anim_9 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_PhysicsAsset_11 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_PhysicsAsset_11 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix2_20 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix2_20 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Anim2_22 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Anim2_22 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_PhysicsAsset2_24 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_PhysicsAsset2_24 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Skeleton2_26 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.51:505][711]MapCheck: Warning: octo_kecil__fix_Skeleton2_26 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.51:506][711]MapCheck: Warning: oxto_semua_5 /Game/DuniakuDuniamu/map1maya/octolord/oxto_semua.oxto_semua : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2021.12.22-14.06.51:506][711]MapCheck: Warning: oxto_semua_Skeleton_7 /Game/DuniakuDuniamu/map1maya/octolord/oxto_semua.oxto_semua : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2021.12.22-14.06.51:506][711]MapCheck: Warning: oxto_semua_PhysicsAsset_11 /Game/DuniakuDuniamu/map1maya/octolord/oxto_semua.oxto_semua : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2021.12.22-14.06.51:506][711]MapCheck: Map check complete: 1 Error(s), 37 Warning(s), took 38.053ms to complete.
+[2021.12.22-14.06.51:508][711]LogEditorBuildUtils: Build time 0:03
+[2021.12.22-14.06.51:578][711]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert8 in PCD3D_SM5, Default, SM5 (DDC key hash: F9275CDE852E0E86E86040085D96593C008FAE0C), compiling. 
+[2021.12.22-14.06.51:580][711]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.22-14.06.51:581][711]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert8 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B91983854592945CA94E368ACFB4B02BFA0EDE3), compiling. 
+[2021.12.22-14.06.51:584][711]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.22-14.06.51:585][711]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer anisotropic1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1519282EAF471A40F4AA9378F155BD93E2419554), compiling. 
+[2021.12.22-14.06.51:588][711]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.12.22-14.06.51:588][711]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.12.22-14.06.51:588][711]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.12.22-14.06.51:588][711]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.12.22-14.06.51:588][711]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.06.51:588][711]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.22-14.06.51:589][711]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer anisotropic1 in PCD3D_SM5, Default, SM5 (DDC key hash: BD5B61E898DD6E221B5106905125C9334DAFD32F), compiling. 
+[2021.12.22-14.06.51:592][711]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.12.22-14.06.51:688][711]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.12.22-14.06.51:688][711]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.12.22-14.06.51:688][711]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.12.22-14.06.51:688][711]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.12.22-14.06.51:688][711]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.22-14.06.52:296][712]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.22-14.06.52:296][712]LogShaderCompilers: Display: Total job queries 4331, among them cache hits 26 (0.60%)
+[2021.12.22-14.06.52:296][712]LogShaderCompilers: Display: Tracking 3696 distinct input hashes that result in 1055 distinct outputs (28.54%)
+[2021.12.22-14.06.52:296][712]LogShaderCompilers: Display: RAM used: 6.54 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.80%
+[2021.12.22-14.06.52:296][712]LogShaderCompilers: Display: ================================================
+[2021.12.22-14.06.52:791][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.22-14.06.54:927][722]LightingResults: Warning: gedung_pencakar_polySurface3 Object has wrapping UVs.
+[2021.12.22-14.06.54:927][722]LightingResults: Warning: gedung_pencakar_polySurface3 Object has overlapping UVs.
+[2021.12.22-14.06.54:927][722]LightingResults: gedung_pencakar_polySurface3 Lightmap UV are overlapping by 18.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.12.22-14.06.55:269][723]LightingResults: Warning: gedung_pencakar_polySurface10 Object has overlapping UVs.
+[2021.12.22-14.06.55:269][723]LightingResults: gedung_pencakar_polySurface10 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.12.22-14.06.55:269][723]LightingResults: Warning: gedung_pencakar_polySurface12 Object has overlapping UVs.
+[2021.12.22-14.06.55:269][723]LightingResults: gedung_pencakar_polySurface12 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.12.22-14.06.56:606][727]Job is a success!
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.047s
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 1.3Mb due to 0.010000 MinBrickError)
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:      Bricks at depth
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:          0: 2.5% covering 100.0% of volume
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:          1: 11.5% covering 7.0% of volume
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:          2: 86.0% covering 0.8% of volume
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:      Bricks in each level
+[2021.12.22-14.06.57:113][728]LogVolumetricLightmapImport:          Level_1 			 157 bricks 	 100.0% (Persistent Level)
+[2021.12.22-14.06.57:184][728]LightingResults: Warning: SpotLight23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.12.22-14.06.57:184][728]LightingResults: Warning: SpotLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.12.22-14.06.57:184][728]LightingResults: Warning: SpotLight17 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.12.22-14.06.57:184][728]LightingResults: Warning: SpotLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.12.22-14.06.57:184][728]LightingResults: Warning: SpotLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.12.22-14.06.57:184][728]LightingResults: Warning: SpotLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.12.22-14.06.57:420][728]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2021.12.22-14.06.57:420][728]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.12.22-14.06.57:420][728]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.22-14.06.57:420][728]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.22-14.06.57:420][728]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.12.22-14.06.57:420][728]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 512X256)
+[2021.12.22-14.06.57:420][728]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2021.12.22-14.06.57:420][728]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2021.12.22-14.06.57:420][728]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.22-14.06.57:462][728]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2021.12.22-14.06.57:462][728]Lightmass on LAPTOP-E7JENEAU: 4.12 sec total, 231 ms importing, 156 ms setup, 560 ms photons, 3.14 sec processing, 0 ms extra exporting [141/141 mappings]. Threads: 47.0 sec total, 17.1 sec processing.
+[2021.12.22-14.06.57:462][728]LogStaticLightingSystem: Level_1_BuiltData storing lightmap data for 141 meshes in 4 LightmapResourceClusters (35.2 Meshes per cluster).
+[2021.12.22-14.06.57:475][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.12.22-14.06.57:493][728]LogStaticLightingSystem: Illumination: 8.87 sec (181 ms encoding lightmaps, 75 ms encoding shadowmaps)
+[2021.12.22-14.06.57:493][728]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.12.22-14.06.57:493][728]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.12.22-14.06.58:289][728]DumpUnbuiltLightIteractions
+[2021.12.22-14.06.58:289][728]Lights with unbuilt interactions: 0
+[2021.12.22-14.06.58:289][728]
+[2021.12.22-14.06.58:289][728]Primitives with unbuilt interactions: 0
+[2021.12.22-14.06.58:360][729]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.12.22-14.06.58:360][729]MapCheck: New page: Level_1 - Dec 23, 2021, 6:06:58 AM
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pCube5_167 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane15_169 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane16_171 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane17_173 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pCube51_175 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane152_177 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane163_179 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane174_181 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pCube55_183 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane156_185 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:360][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane167_187 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane178_189 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: gwdung_ungu_jejer_pCube59_191 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane1510_193 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane1611_195 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: gwdung_ungu_jejer_pPlane1712_197 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: lampu_depan_878 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: gwdung_ungu_jejer_pCube56 Static mesh actor has NULL StaticMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Skeleton_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Skeleton_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_7 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_7 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Anim_9 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Anim_9 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_PhysicsAsset_11 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_PhysicsAsset_11 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix2_20 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix2_20 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Anim2_22 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Anim2_22 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_PhysicsAsset2_24 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_PhysicsAsset2_24 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Skeleton2_26 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: octo_kecil__fix_Skeleton2_26 Skeletal mesh actor has NULL SkeletalMesh property 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: oxto_semua_5 /Game/DuniakuDuniamu/map1maya/octolord/oxto_semua.oxto_semua : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: oxto_semua_Skeleton_7 /Game/DuniakuDuniamu/map1maya/octolord/oxto_semua.oxto_semua : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2021.12.22-14.06.58:361][729]MapCheck: Warning: oxto_semua_PhysicsAsset_11 /Game/DuniakuDuniamu/map1maya/octolord/oxto_semua.oxto_semua : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2021.12.22-14.06.58:361][729]MapCheck: Map check complete: 0 Error(s), 37 Warning(s), took 1.798ms to complete.
+[2021.12.22-14.06.59:176][762]LogSlate: Window 'Message Log' being destroyed
+[2021.12.22-14.06.59:180][762]LogSlate: Window 'Message Log' being destroyed
+[2021.12.22-14.09.24:625][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.22-14.09.25:942][ 86]LogSlate: Window 'Save Content' being destroyed
+[2021.12.22-14.09.25:979][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.12.22-14.09.26:027][ 86]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_17DDA8B83407958251787DD91496E38EC.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap'
+[2021.12.22-14.09.26:036][ 86]LogFileHelpers: Saving map 'Level_1' took 0.062
+[2021.12.22-14.09.26:112][ 86]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_BuiltData36E8AA0848676D744486349F5B2093BD.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1_BuiltData.uasset'
+[2021.12.22-14.09.26:191][ 86]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1_BuiltDataFAC7E2BA4E46FB53F200C9BAB78B5413.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1_BuiltData.uasset'
+[2021.12.22-14.09.26:281][ 86]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DuniakuDuniamu/Level_2.Level_2
+[2021.12.22-14.09.26:281][ 86]Cmd: MAP LOAD FILE="../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.22-14.09.26:281][ 86]LightingResults: New page: Lighting Build
+[2021.12.22-14.09.26:281][ 86]LoadErrors: New page: Loading map: Level_2.umap
+[2021.12.22-14.09.26:285][ 86]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.09.26:285][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.09.26:285][ 86]MapCheck: New page: Map Check
+[2021.12.22-14.09.26:286][ 86]LightingResults: New page: Lighting Build
+[2021.12.22-14.09.26:293][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.09.26:296][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.22-14.09.26:297][ 86]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2'.
+[2021.12.22-14.09.26:397][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.22-14.09.26:397][ 86]LogAIModule: Creating AISystem for world Level_2
+[2021.12.22-14.09.26:408][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.22-14.09.26:416][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.22-14.09.26:416][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.266ms to complete.
+[2021.12.22-14.09.26:416][ 86]LogFileHelpers: Loading map 'Level_2' took 0.135
+[2021.12.22-14.09.26:434][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.22-14.09.26:435][ 86]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.22-14.09.26:462][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_1_BuiltData.Level_1_BuiltData
+[2021.12.22-14.10.40:910][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.12.22-14.10.41:171][524]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_2516D25A34F5CFDD5028BB38A6DF33AB0.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_2.umap'
+[2021.12.22-14.10.41:575][524]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_2_BuiltData1597398049671D1189DBC0B26C605B5B.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_2_BuiltData.uasset'
+[2021.12.22-14.10.41:586][524]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.22-14.10.41:586][524]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_2.Level_2
+[2021.12.22-14.10.41:586][524]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_2_BuiltData.Level_2_BuiltData
+[2021.12.22-14.10.45:389][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.12.22-14.10.45:402][744]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.22-14.10.45:402][744]Cmd: MAP LOAD FILE="../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.22-14.10.45:402][744]LightingResults: New page: Lighting Build
+[2021.12.22-14.10.45:402][744]LoadErrors: New page: Loading map: Level_1.umap
+[2021.12.22-14.10.45:408][744]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.10.45:408][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.10.45:408][744]MapCheck: New page: Map Check
+[2021.12.22-14.10.45:408][744]LightingResults: New page: Lighting Build
+[2021.12.22-14.10.45:413][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.10.45:419][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.22-14.10.45:421][744]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2021.12.22-14.10.45:525][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.22-14.10.45:525][744]LogAIModule: Creating AISystem for world Level_1
+[2021.12.22-14.10.45:534][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.22-14.10.45:540][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.22-14.10.45:541][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2021.12.22-14.10.45:541][744]LogFileHelpers: Loading map 'Level_1' took 0.138
+[2021.12.22-14.11.30:702][368]LogEditorViewport: Clicking on Actor (LMB): BP_octo_C (BP_octo)
+[2021.12.22-14.11.37:600][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.22-14.11.38:292][810]LogEditorViewport: Clicking on Actor (LMB): BP_octo_C (BP_octo)
+[2021.12.22-14.11.45:324][226]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.22-14.11.45:331][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.22-14.11.45:331][226]PIE: New page: PIE session: Level_1 (Dec 23, 2021, 6:11:45 AM)
+[2021.12.22-14.11.45:332][226]LogPlayLevel: Creating play world package: /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.11.45:343][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011282s)
+[2021.12.22-14.11.45:344][226]LogAIModule: Creating AISystem for world Level_1
+[2021.12.22-14.11.45:344][226]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2021.12.22-14.11.45:344][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DuniakuDuniamu/Level_1.Level_1 to /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 (0.012446s)
+[2021.12.22-14.11.45:349][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.22-14.11.45:356][226]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-14.11.45:356][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-14.11.45:356][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.22-14.11.45:356][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.22-14.11.45:356][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.22-14.11.45:356][226]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-14.11.45:359][226]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-14.11.45:359][226]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-14.11.45:394][226]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.22-14.11.45:394][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-14.11.45:394][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-14.11.45:394][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-14.11.45:395][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-14.11.45:395][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-14.11.45:395][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-14.11.45:396][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-14.11.45:396][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-14.11.45:396][226]LogInit: FAudioDevice initialized.
+[2021.12.22-14.11.45:396][226]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_1'.
+[2021.12.22-14.11.45:402][226]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.11.45:408][226]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.12.22-22.11.45
+[2021.12.22-14.11.45:409][226]LogWorld: Bringing up level for play took: 0.006727
+[2021.12.22-14.11.45:409][226]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.12.22-14.11.45:413][226]PIE: Server logged in
+[2021.12.22-14.11.45:415][226]PIE: Play in editor total start time 0.085 seconds.
+[2021.12.22-14.11.52:656][659]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=17.42 Y=29.35 Z=0.00 Location: X=-1271.76 Y=7822.08 Z=263.80 Normal: X=0.94 Y=-0.35 Z=0.00 PenetrationDepth:15.678 Actor:BPC_octokecil_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.12.22-14.11.54:191][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.11.54:191][749]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.11.54:192][749]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.11.54:193][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.11.54:203][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.22-14.11.54:211][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.11.54:216][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.11.54:216][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.11.54:217][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.11.54:242][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.11.54:244][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.12.22-14.11.54:284][750]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.12.22-14.11.55:371][814]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.22-14.11.55:378][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.22-14.11.55:378][814]PIE: New page: PIE session: Level_1 (Dec 23, 2021, 6:11:55 AM)
+[2021.12.22-14.11.55:378][814]LogPlayLevel: Creating play world package: /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.11.55:389][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011248s)
+[2021.12.22-14.11.55:390][814]LogAIModule: Creating AISystem for world Level_1
+[2021.12.22-14.11.55:391][814]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2021.12.22-14.11.55:391][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DuniakuDuniamu/Level_1.Level_1 to /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 (0.012464s)
+[2021.12.22-14.11.55:395][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.22-14.11.55:396][814]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-14.11.55:396][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-14.11.55:396][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-14.11.55:397][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.22-14.11.55:397][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.22-14.11.55:397][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.22-14.11.55:397][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-14.11.55:399][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-14.11.55:399][814]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-14.11.55:435][814]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.22-14.11.55:435][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-14.11.55:435][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-14.11.55:435][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-14.11.55:435][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-14.11.55:435][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-14.11.55:435][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-14.11.55:436][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-14.11.55:436][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-14.11.55:436][814]LogInit: FAudioDevice initialized.
+[2021.12.22-14.11.55:436][814]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1'.
+[2021.12.22-14.11.55:444][814]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.11.55:450][814]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.12.22-22.11.55
+[2021.12.22-14.11.55:451][814]LogWorld: Bringing up level for play took: 0.007175
+[2021.12.22-14.11.55:451][814]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.12.22-14.11.55:455][814]PIE: Server logged in
+[2021.12.22-14.11.55:456][814]PIE: Play in editor total start time 0.081 seconds.
+[2021.12.22-14.11.57:915][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.11.57:915][958]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.11.57:915][958]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.11.57:917][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.11.57:927][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.22-14.11.57:936][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.11.57:940][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.11.57:940][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.11.57:942][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.11.57:956][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.22-14.11.57:994][959]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.12.22-14.11.59:267][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.22-14.11.59:275][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.22-14.11.59:275][ 32]PIE: New page: PIE session: Level_1 (Dec 23, 2021, 6:11:59 AM)
+[2021.12.22-14.11.59:275][ 32]LogPlayLevel: Creating play world package: /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.11.59:286][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011634s)
+[2021.12.22-14.11.59:287][ 32]LogAIModule: Creating AISystem for world Level_1
+[2021.12.22-14.11.59:287][ 32]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2021.12.22-14.11.59:287][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DuniakuDuniamu/Level_1.Level_1 to /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 (0.012780s)
+[2021.12.22-14.11.59:292][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.22-14.11.59:293][ 32]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-14.11.59:293][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-14.11.59:293][ 32]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.22-14.11.59:293][ 32]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.22-14.11.59:293][ 32]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.22-14.11.59:293][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-14.11.59:296][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-14.11.59:296][ 32]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-14.11.59:330][ 32]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.22-14.11.59:331][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-14.11.59:331][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-14.11.59:331][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-14.11.59:331][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-14.11.59:331][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-14.11.59:331][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-14.11.59:332][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-14.11.59:332][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-14.11.59:332][ 32]LogInit: FAudioDevice initialized.
+[2021.12.22-14.11.59:332][ 32]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_1'.
+[2021.12.22-14.11.59:338][ 32]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.11.59:344][ 32]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.12.22-22.11.59
+[2021.12.22-14.11.59:345][ 32]LogWorld: Bringing up level for play took: 0.006852
+[2021.12.22-14.11.59:345][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.22-14.11.59:349][ 32]PIE: Server logged in
+[2021.12.22-14.11.59:350][ 32]PIE: Play in editor total start time 0.078 seconds.
+[2021.12.22-14.12.03:191][261]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=348.35 Y=-142.03 Z=0.00 Location: X=-1622.69 Y=8314.24 Z=263.73 Normal: X=-1.00 Y=-0.02 Z=0.00 PenetrationDepth:1.767 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.12.22-14.12.16:575][ 64]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2021.12.22-14.12.17:308][108]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2021.12.22-14.12.18:325][169]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2021.12.22-14.12.22:125][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2021.12.22-14.12.28:958][807]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-34.34 Y=-15.64 Z=0.00 Location: X=-764.57 Y=6389.61 Z=263.52 Normal: X=-0.14 Y=-0.99 Z=0.00 PenetrationDepth:5.422 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (4 other events since notify)
+[2021.12.22-14.12.34:492][139]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2021.12.22-14.12.35:092][175]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2021.12.22-14.12.36:042][232]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2021.12.22-14.12.48:725][993]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-67.33 Y=-11.61 Z=0.00 Location: X=-4718.06 Y=3580.65 Z=263.73 Normal: X=-0.78 Y=0.63 Z=-0.00 PenetrationDepth:17.429 Actor:BPC_octokecil4_8 Component:StaticMesh BoneName:None (19 other events since notify)
+[2021.12.22-14.12.50:375][ 92]LogCharacterMovement: BPC_octokecil4_8 is stuck and failed to move! Velocity: X=-441.56 Y=406.23 Z=0.00 Location: X=-4735.67 Y=3593.15 Z=255.73 Normal: X=-0.44 Y=0.90 Z=-0.00 PenetrationDepth:3.349 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.12.22-14.12.51:391][153]LogCharacterMovement: BPC_octokecil4_8 is stuck and failed to move! Velocity: X=-324.32 Y=504.79 Z=0.00 Location: X=-4734.56 Y=3604.97 Z=255.73 Normal: X=-0.53 Y=0.85 Z=-0.00 PenetrationDepth:3.442 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (46 other events since notify)
+[2021.12.22-14.12.52:408][214]LogCharacterMovement: BPC_octokecil4_8 is stuck and failed to move! Velocity: X=-324.32 Y=504.79 Z=0.00 Location: X=-4734.56 Y=3604.97 Z=255.73 Normal: X=-0.53 Y=0.85 Z=-0.00 PenetrationDepth:3.446 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (60 other events since notify)
+[2021.12.22-14.12.53:425][275]LogCharacterMovement: BPC_octokecil4_8 is stuck and failed to move! Velocity: X=-324.32 Y=504.79 Z=0.00 Location: X=-4734.56 Y=3604.97 Z=255.73 Normal: X=-0.53 Y=0.85 Z=-0.00 PenetrationDepth:3.446 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (60 other events since notify)
+[2021.12.22-14.12.57:491][519]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=17.56 Y=-19.74 Z=0.00 Location: X=-3514.69 Y=3108.38 Z=263.73 Normal: X=1.00 Y=0.06 Z=-0.00 PenetrationDepth:8.824 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (9 other events since notify)
+[2021.12.22-14.12.58:493][579]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=595.85 Y=-70.46 Z=0.00 Location: X=-3514.69 Y=3108.38 Z=263.73 Normal: X=0.99 Y=0.15 Z=0.00 PenetrationDepth:19.635 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (59 other events since notify)
+[2021.12.22-14.12.59:577][644]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=19.06 Y=28.32 Z=0.00 Location: X=-3514.69 Y=3108.38 Z=263.73 Normal: X=0.99 Y=0.15 Z=0.00 PenetrationDepth:19.635 Actor:BPC_octokecil2_2 Component:StaticMesh BoneName:None (47 other events since notify)
+[2021.12.22-14.13.53:960][907]LogNet: Browse: /Game/DuniakuDuniamu/Level_2
+[2021.12.22-14.13.53:960][907]LogLoad: LoadMap: /Game/DuniakuDuniamu/Level_2
+[2021.12.22-14.13.53:960][907]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.13.53:961][907]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.13.53:962][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.13.53:991][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.13.53:993][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.22-14.13.54:068][907]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_2'.
+[2021.12.22-14.13.54:069][907]LogAIModule: Creating AISystem for world Level_2
+[2021.12.22-14.13.54:069][907]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.13.54:083][907]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2021.12.22-22.13.54
+[2021.12.22-14.13.54:085][907]LogWorld: Bringing up level for play took: 0.015091
+[2021.12.22-14.13.54:088][907]LogLoad: Took 0.128143 seconds to LoadMap(/Game/DuniakuDuniamu/Level_2)
+[2021.12.22-14.13.59:728][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.13.59:728][241]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_2
+[2021.12.22-14.13.59:728][241]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.13.59:731][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.13.59:742][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.22-14.13.59:750][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.13.59:756][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.13.59:756][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.13.59:758][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.13.59:770][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.12.22-14.13.59:809][242]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.22-14.14.01:241][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tanah)
+[2021.12.22-14.14.02:903][424]LogEditorViewport: Clicking on Actor (LMB): BP_EndLevel_C (BP_EndLevel)
+[2021.12.22-14.14.20:032][436]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.22-14.14.20:040][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.22-14.14.20:040][436]PIE: New page: PIE session: Level_1 (Dec 23, 2021, 6:14:20 AM)
+[2021.12.22-14.14.20:040][436]LogPlayLevel: Creating play world package: /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.14.20:052][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012010s)
+[2021.12.22-14.14.20:053][436]LogAIModule: Creating AISystem for world Level_1
+[2021.12.22-14.14.20:053][436]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2021.12.22-14.14.20:053][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DuniakuDuniamu/Level_1.Level_1 to /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 (0.013212s)
+[2021.12.22-14.14.20:058][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.22-14.14.20:062][436]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-14.14.20:062][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-14.14.20:062][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.22-14.14.20:062][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.22-14.14.20:062][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.22-14.14.20:062][436]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-14.14.20:065][436]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-14.14.20:065][436]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-14.14.20:102][436]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.22-14.14.20:102][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-14.14.20:102][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-14.14.20:102][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-14.14.20:102][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-14.14.20:102][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-14.14.20:102][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-14.14.20:103][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-14.14.20:103][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-14.14.20:103][436]LogInit: FAudioDevice initialized.
+[2021.12.22-14.14.20:103][436]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_1'.
+[2021.12.22-14.14.20:114][436]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.14.20:120][436]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2021.12.22-22.14.20
+[2021.12.22-14.14.20:121][436]LogWorld: Bringing up level for play took: 0.006953
+[2021.12.22-14.14.20:121][436]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.22-14.14.20:125][436]PIE: Server logged in
+[2021.12.22-14.14.20:126][436]PIE: Play in editor total start time 0.089 seconds.
+[2021.12.22-14.14.23:216][619]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=67.47 Y=10.38 Z=0.00 Location: X=-1103.68 Y=8099.62 Z=263.81 Normal: X=0.85 Y=0.52 Z=0.00 PenetrationDepth:11.276 Actor:BPC_octokecil_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.12.22-14.14.40:367][648]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-285.12 Y=-527.93 Z=0.00 Location: X=-4616.96 Y=3420.83 Z=262.63 Normal: X=-0.08 Y=-1.00 Z=-0.00 PenetrationDepth:18.007 Actor:BPC_octokecil3_5 Component:StaticMesh BoneName:None (25 other events since notify)
+[2021.12.22-14.14.47:050][ 49]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-356.36 Y=482.71 Z=0.00 Location: X=-2912.92 Y=2115.33 Z=263.73 Normal: X=-0.58 Y=0.81 Z=0.00 PenetrationDepth:12.931 Actor:BPC_octokecil4_8 Component:StaticMesh BoneName:None (8 other events since notify)
+[2021.12.22-14.14.57:817][695]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=50.29 Y=-46.16 Z=0.00 Location: X=-2754.05 Y=2241.62 Z=263.73 Normal: X=0.35 Y=0.94 Z=-0.00 PenetrationDepth:4.198 Actor:BPC_octokecil4_8 Component:StaticMesh BoneName:None (4 other events since notify)
+[2021.12.22-14.15.20:833][ 76]LogNet: Browse: /Game/DuniakuDuniamu/Level_2
+[2021.12.22-14.15.20:833][ 76]LogLoad: LoadMap: /Game/DuniakuDuniamu/Level_2
+[2021.12.22-14.15.20:833][ 76]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_1
+[2021.12.22-14.15.20:834][ 76]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.15.20:835][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.15.20:840][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.15.20:842][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.22-14.15.20:912][ 76]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_2'.
+[2021.12.22-14.15.20:913][ 76]LogAIModule: Creating AISystem for world Level_2
+[2021.12.22-14.15.20:913][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.22-14.15.20:927][ 76]LogWorld: Bringing World /Game/DuniakuDuniamu/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2021.12.22-22.15.20
+[2021.12.22-14.15.20:928][ 76]LogWorld: Bringing up level for play took: 0.014490
+[2021.12.22-14.15.20:931][ 76]LogLoad: Took 0.098000 seconds to LoadMap(/Game/DuniakuDuniamu/Level_2)
+[2021.12.22-14.15.40:238][231]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2021.12.22-14.15.40:270][233]LogCharacterMovement: BPC_octokecil2_5 is stuck and failed to move! Velocity: X=11.23 Y=67.60 Z=0.00 Location: X=1171.49 Y=-93.67 Z=745.15 Normal: X=1.00 Y=0.02 Z=0.00 PenetrationDepth:7.378 Actor:tentakel_kiri_depan_Anim_33 Component:SkeletalMeshComponent0 BoneName:joint12 (0 other events since notify)
+[2021.12.22-14.15.41:455][304]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2021.12.22-14.15.42:371][359]LogCharacterMovement: BPC_octokecil2_5 is stuck and failed to move! Velocity: X=4.29 Y=33.86 Z=0.00 Location: X=1170.96 Y=-93.55 Z=745.15 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:0.022 Actor:tentakel_kiri_depan_Anim_33 Component:SkeletalMeshComponent0 BoneName:joint12 (24 other events since notify)
+[2021.12.22-14.15.43:387][420]LogCharacterMovement: BPC_octokecil2_5 is stuck and failed to move! Velocity: X=-228.05 Y=554.97 Z=0.00 Location: X=1200.58 Y=-94.93 Z=751.15 Normal: X=0.50 Y=0.87 Z=0.00 PenetrationDepth:2.341 Actor:tentakel_kiri_depan_Anim_33 Component:SkeletalMeshComponent0 BoneName:joint12 (21 other events since notify)
+[2021.12.22-14.15.44:821][506]LogCharacterMovement: BPC_octokecil2_5 is stuck and failed to move! Velocity: X=3.83 Y=33.92 Z=0.00 Location: X=1171.01 Y=-93.54 Z=745.15 Normal: X=0.71 Y=0.70 Z=0.00 PenetrationDepth:0.061 Actor:tentakel_kiri_depan_Anim_33 Component:SkeletalMeshComponent0 BoneName:joint12 (1 other events since notify)
+[2021.12.22-14.15.45:821][566]LogCharacterMovement: BPC_octokecil2_5 is stuck and failed to move! Velocity: X=-82.10 Y=129.55 Z=0.00 Location: X=1200.96 Y=-93.64 Z=765.52 Normal: X=0.48 Y=0.88 Z=0.00 PenetrationDepth:1.407 Actor:tentakel_kiri_depan_Anim_33 Component:SkeletalMeshComponent0 BoneName:joint12 (20 other events since notify)
+[2021.12.22-14.16.01:861][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.16.01:861][527]LogWorld: BeginTearingDown for /Game/DuniakuDuniamu/UEDPIE_0_Level_2
+[2021.12.22-14.16.01:862][527]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.01:865][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.16.01:873][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.22-14.16.01:880][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.16.01:886][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.16.01:886][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.16.01:887][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.16.01:918][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-14.16.01:922][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.22-14.16.01:960][528]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.22-14.16.16:451][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.22-14.16.17:887][371]LogSlate: Window 'Save Content' being destroyed
+[2021.12.22-14.16.17:920][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.12.22-14.16.17:968][371]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_1180671CC4D08EFDC6388CE912837B1DE.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_1.umap'
+[2021.12.22-14.16.17:976][371]LogFileHelpers: Saving map 'Level_1' took 0.062
+[2021.12.22-14.16.18:059][371]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DuniakuDuniamu/Level_2.Level_2
+[2021.12.22-14.16.18:060][371]Cmd: MAP LOAD FILE="../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.22-14.16.18:060][371]LightingResults: New page: Lighting Build
+[2021.12.22-14.16.18:060][371]LoadErrors: New page: Loading map: Level_2.umap
+[2021.12.22-14.16.18:064][371]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.18:064][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-14.16.18:064][371]MapCheck: New page: Map Check
+[2021.12.22-14.16.18:064][371]LightingResults: New page: Lighting Build
+[2021.12.22-14.16.18:072][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-14.16.18:075][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.12.22-14.16.18:075][371]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2'.
+[2021.12.22-14.16.18:180][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.22-14.16.18:180][371]LogAIModule: Creating AISystem for world Level_2
+[2021.12.22-14.16.18:192][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.22-14.16.18:199][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.22-14.16.18:202][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.599ms to complete.
+[2021.12.22-14.16.18:202][371]LogFileHelpers: Loading map 'Level_2' took 0.142
+[2021.12.22-14.16.18:217][371]AssetCheck: New page: Asset Save: Level_1
+[2021.12.22-14.16.18:217][371]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_1.Level_1
+[2021.12.22-14.16.35:387][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.22-14.16.35:658][392]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_29B52881946BFBCBDC7B338B7B08DCE43.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_2.umap'
+[2021.12.22-14.16.36:067][392]LogSavePackage: Moving '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Saved/Level_2_BuiltDataEC5C885C416536C248E15F9D864A94CB.tmp' to '../../../../../../Users/flame/Documents/GitHub/AwalyangBaru/MariBegadang/Content/DuniakuDuniamu/Level_2_BuiltData.uasset'
+[2021.12.22-14.16.36:081][392]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.22-14.16.36:081][392]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DuniakuDuniamu/Level_2_BuiltData.Level_2_BuiltData
+[2021.12.22-14.16.36:081][392]LogContentValidation: Display: Validating World /Game/DuniakuDuniamu/Level_2.Level_2
+[2021.12.22-14.16.36:556][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.12.22-14.16.36:579][421]LogSlate: Window 'MariBegadang - Unreal Editor' being destroyed
+[2021.12.22-14.16.36:709][422]Cmd: QUIT_EDITOR
+[2021.12.22-14.16.36:709][422]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.22-14.16.36:713][422]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.22-14.16.37:441][422]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.22-14.16.37:441][422]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.22-14.16.37:441][422]LogAudio: Display: Audio Device unregistered from world 'Level_2'.
+[2021.12.22-14.16.37:441][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.16.37:442][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-14.16.37:481][422]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.22-14.16.37:482][422]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.22-14.16.37:485][422]LogExit: Preparing to exit.
+[2021.12.22-14.16.37:821][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.12.22-14.16.37:931][422]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.37:931][422]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.37:931][422]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.37:931][422]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.37:931][422]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.37:973][422]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.22-14.16.37:978][422]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-14.16.37:979][422]LogExit: Editor shut down
+[2021.12.22-14.16.37:980][422]LogExit: Transaction tracking system shut down
+[2021.12.22-14.16.38:245][422]LogExit: Object subsystem successfully closed.
+[2021.12.22-14.16.38:269][422]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.22-14.16.38:269][422]LogShaderCompilers: Display: Total job queries 4331, among them cache hits 26 (0.60%)
+[2021.12.22-14.16.38:269][422]LogShaderCompilers: Display: Tracking 3696 distinct input hashes that result in 1055 distinct outputs (28.54%)
+[2021.12.22-14.16.38:269][422]LogShaderCompilers: Display: RAM used: 6.54 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.80%
+[2021.12.22-14.16.38:269][422]LogShaderCompilers: Display: ================================================
+[2021.12.22-14.16.38:279][422]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.12.22-14.16.38:313][422]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (892)
+[2021.12.22-14.16.38:313][422]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (890)
+[2021.12.22-14.16.38:313][422]LogModuleManager: Shutting down and abandoning module Voice (888)
+[2021.12.22-14.16.38:313][422]LogModuleManager: Shutting down and abandoning module BlueprintNativeCodeGen (886)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module LauncherServices (884)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module SequencerWidgets (882)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module AddContentDialog (878)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module WidgetCarousel (877)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module EditorWidgets (874)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module StatsViewer (870)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (868)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (866)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module AutomationWorker (864)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module SteamVREditor (862)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module OculusMR (860)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (858)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (854)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module TakeRecorder (853)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (850)
+[2021.12.22-14.16.38:314][422]LogModuleManager: Shutting down and abandoning module TakesCore (848)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module OpenXRInput (846)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (844)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (842)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (840)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (838)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (836)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module PlanarCut (834)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (832)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (830)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (828)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (826)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module WebMMedia (824)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (822)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (820)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module SequenceRecorder (819)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (816)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (814)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (812)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (810)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (808)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (806)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (804)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module CharacterAI (802)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (800)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (798)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (796)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module TextureAlignMode (794)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module BspMode (792)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module GeometryMode (790)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module SmartSnapping (788)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module SessionServices (786)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MeshPaint (784)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (782)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module FoliageEdit (780)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module LandscapeEditor (778)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module MeshPaintMode (776)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (774)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ActorPickerMode (772)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module PlacementMode (770)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ViewportSnapping (768)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ViewportInteraction (766)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module ClothPainter (764)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (763)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module LogVisualizer (760)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module IntroTutorials (758)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (757)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (754)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (752)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (750)
+[2021.12.22-14.16.38:315][422]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (749)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (746)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (744)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (742)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (740)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module TraceInsights (738)
+[2021.12.22-14.16.39:363][422]MemoryProfiler: Shutdown
+[2021.12.22-14.16.39:363][422]NetworkingProfiler: Shutdown
+[2021.12.22-14.16.39:363][422]LoadingProfiler: Shutdown
+[2021.12.22-14.16.39:363][422]TimingProfiler: Shutdown
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module TraceServices (737)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (734)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (732)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module InputBindingEditor (730)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module MergeActors (728)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (726)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module LocalizationService (725)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module HardwareTargeting (722)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (720)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module UndoHistory (718)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module XmlParser (716)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module Blutility (714)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (712)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (711)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (708)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (707)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module SettingsEditor (704)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module ProjectLauncher (702)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module SessionFrontend (700)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module ProfilerClient (698)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module DeviceManager (696)
+[2021.12.22-14.16.39:363][422]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (695)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module AutomationController (692)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module AutomationWindow (690)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module Layers (688)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (686)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module DetailCustomizations (684)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module PackagesDialog (682)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (680)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module Persona (678)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (677)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module AnimGraph (675)
+[2021.12.22-14.16.39:396][422]LogModuleManager: Shutting down and abandoning module Kismet (672)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module KismetWidgets (671)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module GraphEditor (668)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module StructViewer (666)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module ClassViewer (664)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module Toolbox (662)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module ModuleUI (660)
+[2021.12.22-14.16.39:397][422]LogModuleManager: Shutting down and abandoning module OutputLog (658)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module GammaUI (656)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module Documentation (654)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module LiveCoding (652)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module LevelSequence (650)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (648)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module MovieScene (646)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (644)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module LauncherPlatform (642)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module AnalyticsET (640)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module PortalServices (638)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module PortalRpc (636)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module MessagingRpc (634)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (632)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module AudioMixerCore (631)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module AIModule (628)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module GameplayDebugger (627)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module AITestSuite (625)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module NavigationSystem (623)
+[2021.12.22-14.16.39:398][422]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (620)
+[2021.12.22-14.16.39:404][422]LogModuleManager: Shutting down and abandoning module ProfilerService (618)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module TaskGraph (616)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (614)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module MegascansPlugin (612)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module OculusEditor (610)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module OculusInput (608)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module DatabaseSupport (606)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module SQLiteSupport (604)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (602)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (600)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2021.12.22-14.16.39:592][422]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GooglePAD (594)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (588)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (586)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module TakeSequencer (584)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module TakeMovieScene (582)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module EditableMesh (574)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (572)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module CableComponent (570)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AssetTags (568)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (562)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (560)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AppleImageUtils (558)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AndroidPermission (556)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (554)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (552)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module TemplateSequence (550)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (548)
+[2021.12.22-14.16.39:593][422]LogOpenImageDenoise: OIDN shutting down
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (546)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MotoSynth (544)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MeshConversion (542)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometricObjects (536)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (534)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (532)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MediaCompositing (530)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (528)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (527)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (524)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (522)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (520)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (518)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ImgMedia (516)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ChaosNiagara (512)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (510)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (507)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AlembicImporter (504)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AlembicLibrary (503)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCache (502)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (501)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module BackChannel (496)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (494)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AutomationUtils (492)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (486)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (484)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (482)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (478)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (476)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module PluginBrowser (474)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (470)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module CryptoKeys (468)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (466)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module CurveEditorTools (464)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (460)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2021.12.22-14.16.39:593][422]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (436)
+[2021.12.22-14.16.39:594][422]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (434)
+[2021.12.22-14.16.39:594][422]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (432)
+[2021.12.22-14.16.39:594][422]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (430)
+[2021.12.22-14.16.39:594][422]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (428)
+[2021.12.22-14.16.39:594][422]LogModuleManager: Shutting down and abandoning module LiveLink (426)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (424)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (422)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (420)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module Paper2DEditor (418)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (416)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (414)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module SQLiteCore (412)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module GameplayCameras (410)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2021.12.22-14.16.39:868][422]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2021.12.22-14.16.39:969][422]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (382)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (380)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (378)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (376)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (374)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (372)
+[2021.12.22-14.16.40:070][422]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (370)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (368)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (366)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (364)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapController (362)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (360)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module MagicLeapAR (358)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (356)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module Niagara (354)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module SignalProcessing (353)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module NiagaraEditor (351)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module NiagaraCore (348)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2021.12.22-14.16.40:070][422]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2021.12.22-14.16.40:071][422]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2021.12.22-14.16.40:071][422]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2021.12.22-14.16.40:071][422]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2021.12.22-14.16.40:071][422]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.12.22-14.16.40:072][422]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.12.22-14.16.40:074][422]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.12.22-14.16.40:075][422]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.12.22-14.16.40:076][422]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.12.22-14.16.40:077][422]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.12.22-14.16.40:077][422]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.12.22-14.16.40:077][422]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.12.22-14.16.40:077][422]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.12.22-14.16.40:077][422]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.12.22-14.16.40:078][422]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.12.22-14.16.40:081][422]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.12.22-14.16.40:081][422]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.12.22-14.16.40:081][422]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.12.22-14.16.40:081][422]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.12.22-14.16.40:081][422]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.12.22-14.16.40:082][422]LogHMD: Freeing OpenVRDLLHandle.
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2021.12.22-14.16.40:082][422]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.12.22-14.16.40:082][422]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.12.22-14.16.40:083][422]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.12.22-14.16.40:083][422]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.12.22-14.16.40:117][422]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.12.22-14.16.40:117][422]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.12.22-14.16.40:117][422]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF55982A-4BC5-1871-9968-A2B1FB9934BD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=44ea47aa4d73132712b021824d68579c%7C6e9a9be0f86f4969bd758397cc4d0632%7C875a50e3-6839-4eab-be6a-69ecf945fdbc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.12.22-14.16.40:117][422]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.12.22-14.16.40:136][422]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.12.22-14.16.40:137][422]LogModuleManager: Shutting down and abandoning module VariantManagerContent (74)
+[2021.12.22-14.16.40:137][422]LogModuleManager: Shutting down and abandoning module DatasmithContent (72)
+[2021.12.22-14.16.40:137][422]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2021.12.22-14.16.40:139][422]LogModuleManager: Shutting down and abandoning module Media (69)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module MLSDK (60)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.12.22-14.16.40:140][422]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.12.22-14.16.40:141][422]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.12.22-14.16.40:141][422]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.12.22-14.16.40:142][422]LogD3D11RHI: Shutdown
+[2021.12.22-14.16.40:142][422]LogD3D11RHI: CleanupD3DDevice
+[2021.12.22-14.16.40:167][422]LogExit: Exiting.
+[2021.12.22-14.16.40:180][422]Log file closed, 12/22/21 22:16:40
